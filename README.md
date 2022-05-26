@@ -3,7 +3,7 @@
 
 ![p](https://github.com/MarwanMohamed95/Region-Based-Convolutional-Neural-Network-R-CNN/blob/main/test.png?raw=true)
 
-- In this project we will implement R-CNN on raccoon dataset toclassify the image as raccoon or not raccoon.
+- In this project we will implement R-CNN on raccoon dataset to detect raccoons in the images.
 
 
 ![photo](https://miro.medium.com/max/1400/0*Esmqth8McxPM2YtB.png)
